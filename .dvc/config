@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = remote_storage
+['remote "remote_storage"']
+    url = /home/max/WORK_DIR/tutorials/dvc_remote
